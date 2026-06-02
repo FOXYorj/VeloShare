@@ -12,19 +12,19 @@ Uygulama, görsel açıdan **Material Design 3** standartlarında modern **Slate
 
 ### 1. Karşılama ve Canlı Splash Ekranı
 Yumuşak grafik ölçekleme, sonsuz dairesel dalga geçişleri ve akıcı rotasyon efektleriyle bezenmiş şık bir açılış deneyimi.
-> `![Açılış Ekranı](assets/screenshots/splash_screen.png)` *(Örnek placeholder - Görselinizi buraya ekleyin)*
+> `![Açılış Ekranı](assets/screenshots/splash_screen.png)
 
 ### 2. Ana Kontrol Paneli ve Radar Keşif İstasyonu
 Ağdaki diğer aktif VeloShare noktalarını gerçek zamanlı mDNS dalgaları üzerinden tarayan ve dinamik radar animasyonuyla görselleştiren ana arayüz.
-> `![Ana Panel](assets/screenshots/main_dashboard.png)` *(Örnek placeholder - Görselinizi buraya ekleyin)*
+> `![Ana Panel](assets/screenshots/main_dashboard.png)
 
 ### 3. İnternetsiz Çevrimdışı Aktarım Rehberi
 Altyapı bağımsız eşleşmelerde kullanıcıya kılavuzluk eden, genişleyebilir ve daraltılabilir şık bir bilgilendirme kartı.
-> `![Çevrimdışı Rehber](assets/screenshots/offline_guide.png)` *(Örnek placeholder - Görselinizi buraya ekleyin)*
+> `![Çevrimdışı Rehber](assets/screenshots/offline_guide.png)
 
 ### 4. Gelişmiş Ayarlar ve Profil Fotoğrafı Yönetimi
 Kullanıcıların ağda görünecek takma adlarını ve galeriden seçerek yerel depolama alanına (`SharedPreferences` ve dosya sistemi) kaydettikleri profil fotoğraflarını yönettikleri alan.
-> `![Ayarlar](assets/screenshots/settings_dialog.png)` *(Örnek placeholder - Görselinizi buraya ekleyin)*
+> `![Ayarlar](assets/screenshots/settings_dialog.png)
 
 ---
 
