@@ -72,36 +72,4 @@ Uygulamanın mimari hiyerarşisi clean code prensiplerine uygun, reaktif ve tama
 4.  **`NsdHelper.kt` (Yerel Ağ Servis Keşfi):**
     *   **Network Service Discovery** (NSD) altyapısı sayesinde aynı ağdaki tüm VeloShare kullanıcılarını otomatik olarak tarar, bulur ve IP/Port bilgilerini dinamik olarak listeye ekler.
 
----
-
-## 🚀 Kurulum ve Yerel Çalıştırma Rehberi
-
-Uygulamayı Android Studio üzerinde derlemek ve çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
-
-1.  **Projeyi Klonlayın veya İnceleyin:**
-    ```bash
-    git clone <depo_adresi>
-```
-2.  **Android Studio ile Açın:**
-    *   Android Studio Jellyfish / Koala veya daha yeni bir sürüm tavsiye edilir.
-    *   İşletim sistemi olarak Android 8.0 (API 26) ve üzerini destekler.
-3.  **Bağımlılıkları Eşitleyin (Gradle Sync):**
-    *   Projedeki `libs.versions.toml` (Version Catalog) dosyasındaki bağımlılıklar otomatik algılanacaktır.
-    *   Kamera entegrasyonu için `androidx.camera.lifecycle`, görsel yüklemeler için `io.coil-kt:coil-compose` kütüphaneleri optimize edilmiştir.
-4.  **Derleyin ve Başlatın (Build & Run):**
-    *   Cihazı bilgisayara bağlayın (veya emülatör başlatın) ve `Run 'app'` butonuna tıklayın.
-
----
-
-## ⚙️ Çevrimdışı Aktarım Nasıl Yapılır? (Hızlı Kılavuz)
-
-İnternetsiz bir ortamda dosya aktarımı gerçekleştirmek için yerleşik rehberimizdeki şu adımları izleyin:
-
-*   **Adım 1:** Gönderici veya Alıcı cihazlardan birinde **Mobil Etkin Nokta (Hotspot)** özelliğini açın. *(Mobil veri paketinizin açık olması gerekmez.)*
-*   **Adım 2:** Diğer cihazla bu kurulan yerel Wi-Fi ağına bağlanın.
-*   **Adım 3:** Her iki cihazda da **VeloShare** uygulamasını açın.
-*   **Adım 4:** Gönderici cihazdaki **QR Kod Tarayıcıyı** açıp, Alıcı cihazdaki QR kodu okutun ya da manuel IP alanından alıcının IP adresini yazarak aktarımı anında tetikleyin!
-
----
-
-💡 *VeloShare, internet bağımlılığını ortadan kaldırarak her zaman, her yerde en hızlı ve en güvenli dosya paylaşım yol arkadaşınız olmak için tasarlandı!*
+[📥 Uygulamayı Doğrudan İndirmek İçin Tıklayın](./VeloShare.apk?raw=true)
