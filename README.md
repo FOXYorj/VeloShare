@@ -72,4 +72,5 @@ Uygulamanın mimari hiyerarşisi clean code prensiplerine uygun, reaktif ve tama
 4.  **`NsdHelper.kt` (Yerel Ağ Servis Keşfi):**
     *   **Network Service Discovery** (NSD) altyapısı sayesinde aynı ağdaki tüm VeloShare kullanıcılarını otomatik olarak tarar, bulur ve IP/Port bilgilerini dinamik olarak listeye ekler.
 
-[📥 Uygulamayı Doğrudan İndirmek İçin Tıklayın](./VeloShare.apk?raw=true)
+[📥 Uygulamayı Doğrudan İndirmek İçin Tıklayın](https://github.com/FOXYorj/VeloShare/blob/main/VeloShare.apk)
+
