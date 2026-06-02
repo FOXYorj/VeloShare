@@ -8,7 +8,6 @@ Uygulama, görsel açıdan **Material Design 3** standartlarında modern **Slate
 
 ## 📸 Uygulama Görselleri & Ekran Tanıtımları
 
-*Aşağıdaki alanlara kendi hazırladığınız ekran görüntülerini ekleyerek dökümantasyonu görselleştirebilirsiniz.*
 
 ### 1. Karşılama ve Canlı Splash Ekranı
 Yumuşak grafik ölçekleme, sonsuz dairesel dalga geçişleri ve akıcı rotasyon efektleriyle bezenmiş şık bir açılış deneyimi.
