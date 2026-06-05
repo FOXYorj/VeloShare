@@ -11,20 +11,20 @@ Uygulama, görsel açıdan **Material Design 3** standartlarında modern **Slate
 
 ### 1. Karşılama ve Canlı Splash Ekranı
 Yumuşak grafik ölçekleme, sonsuz dairesel dalga geçişleri ve akıcı rotasyon efektleriyle bezenmiş şık bir açılış deneyimi.
-> <img width="720" height="1300" alt="splash_screen" src="https://github.com/user-attachments/assets/b8b8ed3d-1c28-4b04-beab-ebd4d04f5580" />
+> <img width="720" height="1000" alt="splash_screen" src="https://github.com/user-attachments/assets/b8b8ed3d-1c28-4b04-beab-ebd4d04f5580" />
 
 
 ### 2. Ana Kontrol Paneli ve Radar Keşif İstasyonu
 Ağdaki diğer aktif VeloShare noktalarını gerçek zamanlı mDNS dalgaları üzerinden tarayan ve dinamik radar animasyonuyla görselleştiren ana arayüz.
-> <img width="720" height="1300" alt="main_dashboard" src="https://github.com/user-attachments/assets/28161809-4204-40e0-b09e-fcfc13a9bb47" />
+> <img width="720" height="1000" alt="main_dashboard" src="https://github.com/user-attachments/assets/28161809-4204-40e0-b09e-fcfc13a9bb47" />
 
 ### 3. İnternetsiz Çevrimdışı Aktarım Rehberi
 Altyapı bağımsız eşleşmelerde kullanıcıya kılavuzluk eden, genişleyebilir ve daraltılabilir şık bir bilgilendirme kartı.
-> <img width="720" height="1300" alt="offline_guide" src="https://github.com/user-attachments/assets/be8b6a06-0d65-4a77-801b-7e174be84b8a" />
+> <img width="720" height="1000" alt="offline_guide" src="https://github.com/user-attachments/assets/be8b6a06-0d65-4a77-801b-7e174be84b8a" />
 
 ### 4. Gelişmiş Ayarlar ve Profil Fotoğrafı Yönetimi
 Kullanıcıların ağda görünecek takma adlarını ve galeriden seçerek yerel depolama alanına (`SharedPreferences` ve dosya sistemi) kaydettikleri profil fotoğraflarını yönettikleri alan.
-> <img width="720" height="1300" alt="settings_dialog" src="https://github.com/user-attachments/assets/de6e1651-6df6-4546-8b44-b6610212e9b2" />
+> <img width="720" height="1000" alt="settings_dialog" src="https://github.com/user-attachments/assets/de6e1651-6df6-4546-8b44-b6610212e9b2" />
 
 ---
 
